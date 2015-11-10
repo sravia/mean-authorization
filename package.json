@@ -1,0 +1,19 @@
+{
+  "name": "authorization",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "latest",
+    "express-session": "latest",
+    "body-parser": "latest",
+    "passport": "latest",
+    "passport-local": "latest",
+    "mongoose": "latest",
+    "ejs": "latest",
+    "underscore": "latest",
+    "connect-mongo": "latest",
+    "morgan": "latest",
+    "node-sass-middleware" : "latest",
+    "method-override": "latest",
+    "cookie-parser" : "latest"
+  }
+}

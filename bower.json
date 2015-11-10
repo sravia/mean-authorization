@@ -1,0 +1,15 @@
+{
+  "name": "authorization",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "latest",
+    "bootstrap": "latest",
+    "jquery": "latest",
+    "angular-resource": "latest",
+    "angular-cookies": "latest",
+    "angular-sanitize": "latest",
+    "angular-route": "latest",
+    "angular-http-auth": "latest",
+    "angular-bootstrap": "latest"
+  }
+}
